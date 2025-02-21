@@ -19,67 +19,6 @@ int main() {
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
   
-    printf("Desafio Super Trunfo- Países \n");
-     
-    char codigodacidade [3];
-    char nome [40];
-    float população;
-    float área;
-    float pib;
-    int numerodepontosturisticos;
-
-    printf("Insira o código da cidade: \n");
-    scanf("%s", &codigodacidade);
-
-    printf("Insira o nome: \n");
-    scanf("%s", &nome);
-
-    printf("Insira a população: \n");
-    scanf("%f", &população);
-
-    printf("Insira a área: \n");
-    scanf("%f", &área);
-
-    printf("Insira o pib: \n");
-    scanf("%f", &pib);
-
-    printf("Insira o número de pontos turísticos: \n");
-    scanf("%d", &numerodepontosturisticos);
-
-    printf("Código da cidade: %s \n", codigodacidade);
-    printf("Nome: %s \n", nome);
-    printf("População: %f \n", população);
-    printf("Área: %f \n", área);
-    printf("Pib: %f \n", pib);
-    printf("Número de pontos turísticos: %d \n", numerodepontosturisticos);
-    
-
-    printf("Insira o código da cidade: \n");
-    scanf("%s", &codigodacidade);
-
-    printf("Insira o nome: \n");
-    scanf("%s", &nome);
-
-    printf("Insira a população: \n");
-    scanf("%f", &população);
-
-    printf("Insira a área: \n");
-    scanf("%f", &área);
-
-    printf("Insira o pib: \n");
-    scanf("%f", &pib);
-
-    printf("Insira o número de pontos turísticos: \n");
-    scanf("%d", &numerodepontosturisticos);
-
-    printf("Código da cidade: %s \n", codigodacidade);
-    printf("Nome: %s \n", nome);
-    printf("População: %f \n", população);
-    printf("Área: %f \n", área);
-    printf("Pib: %f \n", pib);
-    printf("Número de pontos turísticos: %d \n", numerodepontosturisticos);
-  
-  
-  
     return 0;
+
 }
